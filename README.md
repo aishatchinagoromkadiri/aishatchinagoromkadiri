@@ -2,7 +2,7 @@
 
 **Economics graduate | Aspiring Data & Business Analyst**
 
-I turn data into clear findings and practical recommendations using SQL, Power BI and Excel. I'm based in Edo State, Nigeria, and I'm looking for an entry-level data or business analyst role.
+I turn data into clear findings and practical recommendations using SQL, Power BI and Excel. I'm looking for an entry-level data or business analyst role.
 
 ## Skills
 SQL (PostgreSQL) • Power BI • Microsoft Excel • Data Cleaning • Dashboard Design • Business Analysis
